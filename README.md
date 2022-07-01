@@ -1,4 +1,4 @@
-👋 Hi, I’m Shangjin
+👋 Hi, I’m Shang Jin
 
 * I'm a Java/Go/Python/C++ programmer.
 
