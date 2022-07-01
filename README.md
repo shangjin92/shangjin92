@@ -2,7 +2,7 @@
 
 * I'm a Java/Go/Python/C++ programmer.
 
-* I’m interested in Distributed System, Devops, DDD...
+* I’m interested in Distributed System, Cloud Native, Devops, DDD...
 
 * Ping me by WeChat(songwen_jin)
 
