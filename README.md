@@ -2,7 +2,9 @@
 
 * I'm a Java/Go/Python/C++ programmer.
 
-* I’m interested in Distributed System, Cloud Native, Devops, DDD...
+* I’m interested in Cloud Native, Devops, DDD...
+
+* Read my articles on [ZhiHu](https://www.zhihu.com/people/yun-jia-gou-song-wen)
 
 <!---
 shangjin92/shangjin92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
